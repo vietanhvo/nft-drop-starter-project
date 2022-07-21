@@ -1,0 +1,19 @@
+{
+    "name": "BSC Logo",
+    "symbol": "BSC",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "6CxTxoUN6z3Au5UwrhqHHHYF9aT9CQ8ZhYTAZzoQwrn9",
+                "share": 100
+            }
+        ]
+    }
+}
